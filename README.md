@@ -1,6 +1,6 @@
 # Matematica2
 <p>Diretório da disciplina de matematica II - Programação I</P>
-<P>Nesse espaço vamos disponibilizar e organiar conteúdos referêntes as aulas práticas em laboratório de informática como</P>
+
 # Conteúdo
 
   - Aula 1
